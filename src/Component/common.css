@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+/* https://clipground.com/images/website-background-patterns-clipart-3.jpg*/
+
+.main{
+    background-color: aliceblue;
+    /* height:100vh; */
+    font-family: 'Poppins', sans-serif;
+}
+.main{
+    background: url('https://static.vecteezy.com/system/resources/previews/000/602/518/non_2x/vector-buildings-silhouette-cityscape-background-modern-architecture-urban-city-landscape.jpg') no-repeat center center fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.flexing{
+    display: flex;
+    align-items: center;
+}
+.heading{
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.centered-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.home-div{
+    font-size: 60px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.navigation{
+    background-color: white;
+    width:30vw;
+    margin: auto;
+    padding:5rem;
+}
+
+link{
+    text-decoration: none;
+    color: black;
+}
+
+.card-component{
+    width:27rem;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    justify-content: center;
+    align-items: center;
+    vertical-align: middle;
+    opacity: 0.75;
+}
+
+.home-card{
+    height: 50vh !important;
+}
+
+#main-container{
+    vertical-align: middle;
+}
+
+.title{
+    font-size: 40px !important;
+
+}
+
+.title-2{
+    padding-bottom: 4rem;
+}
+
+ul{
+    padding-top: 3rem;
+}
